@@ -2,7 +2,7 @@
 
 tugas konversi bilangan
 untuk menjalankan program tugas 1 maka harus dilakukan kompile pada terminal "gcc 2308107010026_1.c -o 2308107010026_1.exe "
-kemudian panggil progran tersebut "./2308107010026_1
+kemudian panggil program tersebut "./2308107010026_1
 pada tugas ini digunakan switch case, anda akan diminta menginput pilihan yang tersedia
 setelah memilih pilihan, maka anda akan diminta memasukkan angka yang ingin di konversi
 pada case 1 digunakan rumus untuk mengkonversi bilangan dari desimal ke biner
